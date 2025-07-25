@@ -11,4 +11,3 @@ This project explores simplified models of glacial–interglacial cycles using l
 - Python (NumPy, Matplotlib)
 - Jupyter Notebooks
 - Real-world paleoclimate datasets
-- 
