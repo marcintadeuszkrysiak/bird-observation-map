@@ -1,2 +1,2 @@
-# adaptive-radiation-chaos
-A Python-based simulation of adaptive radiation using chaos theory and nonlinear dynamics
+# Whale Obserwation
+A Python-based interactive map presenting sightings of various cetacean species
